@@ -1,5 +1,9 @@
 # Footer module [![Build Status](https://travis-ci.org/Financial-Times/o-ft-footer.svg?branch=master)](https://travis-ci.org/Financial-Times/o-ft-footer)
 
+### This module is now deprecated, please use [o-footer](http://registry.origami.ft.com/components/o-footer) instead.
+
+***
+
 Origami module for the responsive FT page footer.
 
 ## Data
